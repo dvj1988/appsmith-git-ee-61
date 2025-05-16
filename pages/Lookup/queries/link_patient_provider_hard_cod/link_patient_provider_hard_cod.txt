@@ -1,5 +1,0 @@
-{
-		"member_id": "1146368716",
-		"npi": "1457406423",
-		"provider_type": "Secondary"
-}

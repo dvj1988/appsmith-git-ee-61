@@ -1,1 +1,0 @@
-SELECT * FROM dbo.BPSNotes WHERE patient_id = {{ parseInt(this.params.patient_id) }} ORDER BY created

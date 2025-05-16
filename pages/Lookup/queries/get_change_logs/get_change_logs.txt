@@ -1,2 +1,0 @@
-SELECT TOP 10 * FROM dbo.ChangeLogs
-WHERE action_type = 'Update Provider ACH'

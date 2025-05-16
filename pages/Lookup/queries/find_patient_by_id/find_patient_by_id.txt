@@ -1,2 +1,0 @@
-SELECT * FROM dbo.copay_patients 
-WHERE patient_id = 2010625

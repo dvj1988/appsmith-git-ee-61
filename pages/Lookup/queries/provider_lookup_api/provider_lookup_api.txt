@@ -1,3 +1,0 @@
-	{
-		"{{this.params.search_type }}" : "{{this.params.search_text }}"
-	}

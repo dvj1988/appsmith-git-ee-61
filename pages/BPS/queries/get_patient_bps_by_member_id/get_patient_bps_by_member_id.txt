@@ -1,1 +1,0 @@
-SELECT * FROM dbo.PatientBPS WHERE member_id = {{ this.params.member_id }} 

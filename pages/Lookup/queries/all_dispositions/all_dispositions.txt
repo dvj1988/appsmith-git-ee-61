@@ -1,1 +1,0 @@
-SELECT * FROM Dispositions ORDER BY id;

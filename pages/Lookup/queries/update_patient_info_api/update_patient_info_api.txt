@@ -1,6 +1,0 @@
-{    
-    "patient_id": 3484,
-    "member_id": "1144905733",
-		"patient_status": "Active"
-
-}

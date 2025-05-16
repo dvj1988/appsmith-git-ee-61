@@ -1,1 +1,0 @@
-SELECT * FROM dbo.PatientBPS WHERE at_risk_for_mp_aap = 'Maximizer = Y and AAP = N'

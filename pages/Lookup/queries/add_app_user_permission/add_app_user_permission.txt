@@ -1,7 +1,0 @@
-INSERT INTO AppPermissions
-  (user_name, permission_level)
-VALUES
-  (
-    {{ this.params.user_name }},
-    {{ this.params.permission_level }}
-  );

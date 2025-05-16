@@ -1,4 +1,0 @@
-{
-	"memberId": {{this.params.member_id}},
-	"claims": {{this.params.claims}}
-}

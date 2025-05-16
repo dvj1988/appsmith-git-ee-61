@@ -1,3 +1,0 @@
-UPDATE AppPermissions
-  SET permission_level = {{ this.params.permission_level }}
-  WHERE user_name = {{ this.params.user_name }};

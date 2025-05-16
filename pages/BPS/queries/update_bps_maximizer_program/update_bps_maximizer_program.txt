@@ -1,4 +1,0 @@
-UPDATE dbo.PatientBPS 
-SET 
-	maximizer_program_name = {{ this.params.maximizer_program_name }}
-	WHERE patient_id = {{ this.params.patient_id }} 

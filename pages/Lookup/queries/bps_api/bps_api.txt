@@ -1,3 +1,0 @@
-{
-    "claims": [{{ appsmith.store.bps_claims }}]
-}

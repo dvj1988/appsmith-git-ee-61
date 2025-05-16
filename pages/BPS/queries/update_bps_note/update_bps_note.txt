@@ -1,6 +1,0 @@
-UPDATE BPSNotes
-  SET user_name = {{ appsmith.store.user_name }},
-	    disposition = {{ appsmith.store.disposition }}, 
-	 		notes = {{ appsmith.store.notes }}, 
-			created = {{ appsmith.store.created }}
-  WHERE id = {{ appsmith.store.notes_id }};

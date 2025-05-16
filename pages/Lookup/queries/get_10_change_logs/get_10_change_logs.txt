@@ -1,2 +1,0 @@
-SELECT TOP 100 * FROM dbo.ChangeLogs
-WHERE action_type LIKE '%Update Patient Enrollment Status%'

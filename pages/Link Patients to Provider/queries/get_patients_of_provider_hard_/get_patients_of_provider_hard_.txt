@@ -1,5 +1,0 @@
-{
-    "provider_id": "16665",
-		"associated_providers": "{\"provider_ids\": []}"
-    
-}

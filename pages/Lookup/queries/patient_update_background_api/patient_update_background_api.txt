@@ -1,1 +1,0 @@
-{{ this.params.update_payload }}

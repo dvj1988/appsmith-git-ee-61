@@ -1,1 +1,0 @@
-{{ this.params.provider_update_payload }}

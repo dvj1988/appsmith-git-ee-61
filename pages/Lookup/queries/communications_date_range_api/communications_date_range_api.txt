@@ -1,4 +1,0 @@
-{
-   "document_received_from_date": {{ this.params.from_date }},
-   "document_received_to_date": {{ this.params.to_date }},
-}

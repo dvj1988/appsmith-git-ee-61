@@ -1,4 +1,0 @@
-{
-    "provider_id": "{{ appsmith.store.provider_id }}",
-    "associated_providers": "{\"provider_ids\": []}"
-}
